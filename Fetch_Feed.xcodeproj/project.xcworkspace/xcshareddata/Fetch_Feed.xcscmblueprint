@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7CB1D452-A459-4468-B4A8-22EEE5370735",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : "Fetch_Feed\/Fetch_Feed\/EOGImageLoading\/EGOCache\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fetch_Feed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fetch_Feed.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/YOM",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f78396fa-2e7f-43e6-8593-b24e1499841f++8760"
+    }
+  ]
+}

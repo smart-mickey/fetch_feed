@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "73264772ACE071666A82A8209F21FEEB4015BADF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : {
+
+    },
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : 0,
+    "73264772ACE071666A82A8209F21FEEB4015BADF" : 0,
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "042ECDDB-9AD0-44DF-A27B-5F534E9A5F7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++8760" : "Fetch_Feed\/Fetch_Feed\/EOGImageLoading\/EGOImageLoader\/",
+    "73264772ACE071666A82A8209F21FEEB4015BADF" : "Fetch_Feed\/",
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : "Fetch_Feed\/Fetch_Feed\/EOGImageLoading\/EGOImageButton\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fetch_Feed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fetch_Feed.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TiYanLi\/Fetch_Feed.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73264772ACE071666A82A8209F21FEEB4015BADF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/YOM",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f78396fa-2e7f-43e6-8593-b24e1499841f++509"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/YOM",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f78396fa-2e7f-43e6-8593-b24e1499841f++8760"
+    }
+  ]
+}
