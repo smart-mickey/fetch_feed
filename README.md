@@ -29,6 +29,7 @@ target "MyTargetName" do
     platform :ios, '7.0'
     pod 'AFNetworking', '~> 2.5'
 end
+
 You shouldn’t use TextEdit to edit the pod file because TextEdit likes to replace standard quotes with more graphically appealing quotes. This can cause CocoaPods to get confused and display errors, so it’s best to just use Xcode or another programming text editor.
 
 Step 3: Install Dependencies
@@ -39,6 +40,7 @@ $ pod install
 From now on, be sure to always open the generated Xcode workspace (.xcworkspace) instead of the project file when building your project:
 
 $ open <YourProjectName>.xcworkspace
+
 Step 4: Dive In!
 
 At this point, everything's in place for you to start using AFNetworking. Just #import the headers for the classes you need and get to it!
